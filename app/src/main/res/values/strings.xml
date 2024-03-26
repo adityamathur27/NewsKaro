@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NewsKaro</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="Languages">
+        <item name = "us">United States of America</item>
+        <item name = "uk">United Kingdom</item>
+        <item name = "in">India</item>
+        <item name = "ae">Argentina</item>
+        <item name = "it">Italy</item>
+        <item name = "jp">Japan</item>
+        <item name = "lt">Lithuania</item>
+        <item name = "lv">Latvia</item>
+    </string-array>
+</resources>
